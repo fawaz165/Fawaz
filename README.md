@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭I am currently in my final year of B.Tech at VIT<br>- 📚 I'm currently learning advanced programming techniques, cloud technologies, and innovative solutions to further enhance my skills and expertise.<br>-👯 I’m looking to collaborate on anything that cover my interests!<br>- ⚡ In my free time I read Books<br>-📫 You can reach me at fawazahmed165@gmail.com</p>
+<p align="left">🔭 I am currently in my final year of B.Tech at VIT<br>📚 I'm currently learning advanced programming techniques, cloud technologies, and innovative solutions      to further enhance my skills and expertise.<br>👯 I’m looking to collaborate on anything that covers my interests!<br>⚡ I enjoy reading books to broaden my knowledge and foster continuous learning<br>📫 You can reach me at fawazahmed165@gmail.com</p>
 
 ###
 
