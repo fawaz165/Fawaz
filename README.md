@@ -45,7 +45,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/fawaz/fawaz/output/snake.svg" alt="Snake animation" />
-
-###
